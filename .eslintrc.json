@@ -30,7 +30,10 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "jsx-a11y/label-has-associated-control": "off",
+    "react/prop-types": "off",
     "react/jsx-one-expression-per-line": "off",
+    "react/destructuring-assignment": "off",
     "camelcase": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
